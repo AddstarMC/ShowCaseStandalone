@@ -78,7 +78,7 @@
         <!-- packager (needed to add data to the manifest) -->
       <plugin>
           <artifactId>maven-jar-plugin</artifactId>
-          <version>3.1.0</version>
+          <version>3.2.0</version>
           <configuration>
               <archive>
                   <manifestEntries>
